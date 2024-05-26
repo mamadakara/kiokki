@@ -1,0 +1,28 @@
+body{
+    margin:0;
+    padding:0;
+    text-align:left;
+    font-size: 32px;
+}
+
+.title{
+    max-width: 375px;
+    margin:0 auto 20px;
+    text-align: center;
+    font-weight: bold;
+  }
+
+p {
+    text-align: center;
+}  
+
+.memoApp{
+    max-width: 375px;
+    margin:0 auto 20px;
+  }
+  
+  .memoApp input,
+  .memoApp textarea,
+  .memoApp button{
+    margin-bottom: 10px;
+  }
